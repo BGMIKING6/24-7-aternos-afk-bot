@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " happytownsmp.aternos.me",
+    "ip": "happytownsmp.aternos.me",
     "port": 44162,
     "version": "1.20.1",
     "try-creative": false
